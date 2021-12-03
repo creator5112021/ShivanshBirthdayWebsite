@@ -1,0 +1,27 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+
+#myCanvas{
+   border-width: 10px;
+   background-color: white;
+   border-style: ridge;
+   border-color:darkviolet;
+}
+#spec{
+    font-family: 'Gwendolyn', cursive;
+    color: blue;
+    font-size:50px;
+}
+#img{
+    float: top;
+    float: right;
+}
+#spe{
+    margin-top: 900;
+    font-family: 'Gwendolyn', cursive;
+    font-size: 30px;
+}
